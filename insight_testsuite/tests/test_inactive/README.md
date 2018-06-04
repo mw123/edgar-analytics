@@ -1,0 +1,1 @@
+This test checks for correct detection of inactive period and starting new session when the same user makes reqeust again after ended session. As well, for multiple sessions ending at the same time, it checks for the order of recording sessions by time of first request and then by line number in the file.
